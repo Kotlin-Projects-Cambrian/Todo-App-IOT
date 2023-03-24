@@ -53,6 +53,7 @@ class MainActivity : AppCompatActivity() {
             itemsList.clear()
             itemsAdapter.notifyDataSetChanged()
         }
+
     }
 }
 
