@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Todo List App</string>
+    <string name="hint">Add To List</string>
+    <string name="Add_Button">Add</string>
+    <string name="Delete_Button">Delete</string>
+    <string name="Clear_Button">Clear</string>
+    <string name="List_Title">TODO LIST</string>
+</resources>
